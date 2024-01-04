@@ -1,0 +1,6 @@
+c:\users\elcot\documents\visual studio 2012\Projects\qustion_set_2_control statement\qustion_set_2_control statement\bin\Debug\qustion_set_2_control statement.exe.config
+c:\users\elcot\documents\visual studio 2012\Projects\qustion_set_2_control statement\qustion_set_2_control statement\bin\Debug\qustion_set_2_control statement.exe
+c:\users\elcot\documents\visual studio 2012\Projects\qustion_set_2_control statement\qustion_set_2_control statement\bin\Debug\qustion_set_2_control statement.pdb
+c:\users\elcot\documents\visual studio 2012\Projects\qustion_set_2_control statement\qustion_set_2_control statement\obj\Debug\qustion_set_2_control statement.exe
+c:\users\elcot\documents\visual studio 2012\Projects\qustion_set_2_control statement\qustion_set_2_control statement\obj\Debug\qustion_set_2_control statement.pdb
+C:\Users\ELCOT\documents\visual studio 2012\Projects\qustion_set_2_control statement\qustion_set_2_control statement\obj\Debug\qustion_set_2_control statement.csprojResolveAssemblyReference.cache
